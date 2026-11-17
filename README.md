@@ -1,6 +1,10 @@
 <div align="center">
 
-# Eddy Irasetsa
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Eddy Irasetsa - Machine Learning, Software Engineering, Kigali" src="assets/banner-dark.svg" width="100%">
+</picture>
 
 **Software & machine learning engineer · Kigali, Rwanda**
 
@@ -34,6 +38,16 @@ Building practical, data-driven software, with a focus on machine learning for r
 ![HTML](https://img.shields.io/badge/HTML%20%26%20CSS-24292f?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white)
+
+## Contribution grid
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eddydev-ALU/Eddydev-ALU/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eddydev-ALU/Eddydev-ALU/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Eddydev-ALU/Eddydev-ALU/output/github-snake-dark.svg" width="100%">
+</picture>
+</div>
 
 ## Daily dose
 
