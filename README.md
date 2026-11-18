@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "Software is eating the world."
-> <br>— *Marc Andreessen*
+> "Code is like humor. When you have to explain it, it's bad."
+> <br>— *Cory House*
 
-**Did you know?** The smiley :-) was proposed on a Carnegie Mellon message board by Scott Fahlman in 1982.
+**Did you know?** Bluetooth is named after Harald Bluetooth, a 10th-century Danish king who united tribes.
 
-<sub>Refreshed automatically on November 17, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 18, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
