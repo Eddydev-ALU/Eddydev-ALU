@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "Code is like humor. When you have to explain it, it's bad."
-> <br>— *Cory House*
+> "All models are wrong, but some are useful."
+> <br>— *George Box*
 
-**Did you know?** Bluetooth is named after Harald Bluetooth, a 10th-century Danish king who united tribes.
+**Did you know?** CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart.
 
-<sub>Refreshed automatically on November 18, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 19, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
