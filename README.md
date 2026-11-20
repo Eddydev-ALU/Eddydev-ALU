@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "All models are wrong, but some are useful."
-> <br>— *George Box*
+> "Artificial intelligence is the new electricity."
+> <br>— *Andrew Ng*
 
-**Did you know?** CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart.
+**Did you know?** Rwanda was one of the first countries where Zipline began delivering blood by drone, starting in 2016.
 
-<sub>Refreshed automatically on November 19, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 20, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
