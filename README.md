@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "Artificial intelligence is the new electricity."
-> <br>— *Andrew Ng*
+> "The function of good software is to make the complex appear to be simple."
+> <br>— *Grady Booch*
 
-**Did you know?** Rwanda was one of the first countries where Zipline began delivering blood by drone, starting in 2016.
+**Did you know?** In 2012, the neural network AlexNet won the ImageNet challenge by a wide margin and helped kick off the deep learning boom.
 
-<sub>Refreshed automatically on November 20, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 21, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
