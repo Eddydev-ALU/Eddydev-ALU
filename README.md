@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "The function of good software is to make the complex appear to be simple."
-> <br>— *Grady Booch*
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> <br>— *Alan Turing*
 
-**Did you know?** In 2012, the neural network AlexNet won the ImageNet challenge by a wide margin and helped kick off the deep learning boom.
+**Did you know?** The word "bit", short for binary digit, was popularized by Claude Shannon in 1948 and credited to John Tukey.
 
-<sub>Refreshed automatically on November 21, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 22, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
