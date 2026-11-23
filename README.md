@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
-> <br>— *Alan Turing*
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
+> <br>— *Dan Salomon*
 
-**Did you know?** The word "bit", short for binary digit, was popularized by Claude Shannon in 1948 and credited to John Tukey.
+**Did you know?** Linus Torvalds announced Linux in 1991 as "just a hobby, won't be big and professional like gnu."
 
-<sub>Refreshed automatically on November 22, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 23, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
