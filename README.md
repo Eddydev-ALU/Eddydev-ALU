@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
-> <br>— *Dan Salomon*
+> "Fix the cause, not the symptom."
+> <br>— *Steve Maguire*
 
-**Did you know?** Linus Torvalds announced Linux in 1991 as "just a hobby, won't be big and professional like gnu."
+**Did you know?** Python is named after the comedy group Monty Python, not the snake.
 
-<sub>Refreshed automatically on November 23, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 24, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
