@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "Fix the cause, not the symptom."
-> <br>— *Steve Maguire*
+> "Walking on water and developing software from a specification are easy if both are frozen."
+> <br>— *Edward V. Berard*
 
-**Did you know?** Python is named after the comedy group Monty Python, not the snake.
+**Did you know?** In 1947, a moth found in a relay of the Harvard Mark II was taped into the logbook as the "first actual case of bug being found."
 
-<sub>Refreshed automatically on November 24, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 25, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
