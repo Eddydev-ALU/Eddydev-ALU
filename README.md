@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "Walking on water and developing software from a specification are easy if both are frozen."
-> <br>— *Edward V. Berard*
+> "Controlling complexity is the essence of computer programming."
+> <br>— *Brian Kernighan*
 
-**Did you know?** In 1947, a moth found in a relay of the Harvard Mark II was taped into the logbook as the "first actual case of bug being found."
+**Did you know?** The first website, published by Tim Berners-Lee at CERN, went live in 1991.
 
-<sub>Refreshed automatically on November 25, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 26, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
