@@ -52,12 +52,12 @@ Building practical, data-driven software, with a focus on machine learning for r
 ## Daily dose
 
 <!--DAILY:START-->
-> "Controlling complexity is the essence of computer programming."
-> <br>— *Brian Kernighan*
+> "The only way to learn a new programming language is by writing programs in it."
+> <br>— *Dennis Ritchie*
 
-**Did you know?** The first website, published by Tim Berners-Lee at CERN, went live in 1991.
+**Did you know?** Ray Tomlinson sent the first networked email in 1971 and picked the @ symbol to separate user and host.
 
-<sub>Refreshed automatically on November 26, 2026 (UTC)</sub>
+<sub>Refreshed automatically on November 27, 2026 (UTC)</sub>
 <!--DAILY:END-->
 
 <br>
